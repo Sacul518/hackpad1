@@ -7,7 +7,6 @@ firmware and a cross-platform desktop configurator app.
 
 ## Full render
 
-<!-- TODO: add a render/photo showing ALL parts together (PCB + case + assembled) -->
 ![Full render](images/render-full.png)
 
 ## Inspiration & challenges
@@ -56,7 +55,6 @@ Matrix is wired **COL2ROW** (column → switch → diode anode, cathode → row)
 
 ## Photos
 
-<!-- TODO: replace with your screenshots/photos -->
 | Schematic | PCB | Case |
 |-----------|-----|------|
 | ![Schematic](images/schematic.png) | ![PCB](images/pcb.png) | ![Case](images/case.png) |
